@@ -23,7 +23,7 @@ To answer directly, there was an improvement between the original and refactored
 ![VBA_Challenge_2018_NotRefactored](Resources/VBA_Challenge_2018_NotRefactored.png)
 ![VBA_Challenge_2018_Refactored](Resources/VBA_Challenge_2018_Refactored.png)
 
-In the above figure, please note that the refactored code also was able to incorporate more complexity such as formatting and highlighting of cells while gaining significant improvement in the efficiency of processing the data.  How this was accomplished was by using the variable called 'tickerIndex' and incorporating it's use to hold data and distribute the stored data efficiently when called upon within the refactored script.
+In the above figure, please note that the refactored code also was able to incorporate more complexity such as formatting and highlighting of cells while gaining significant improvement in the efficiency of processing the data.  How this was accomplished by using the variable called 'tickerIndex' and incorporating its use to hold data and distribute the stored data efficiently when called upon within the refactored script.  Another significant note is the use of arrays throughout the refactored script which can be seen in the below Figure 2 and Figure 3 comparisons.  While it may not look like a significant amount of change has occurred, the success is in how the program uses the memory of the given device in shorter more relevant bursts.
 
 **Figure 2**: "Original Code"
 
@@ -298,12 +298,12 @@ In the above figure, please note that the refactored code also was able to incor
 
 **Advantages**
 
-- With the increase of efficiency between the original and refactored VBA script, more tickers can be added without significant felt impact to the user if new datasets would be introduced.
-- Refactoring allowed another opportunity to add more comments into the code to really explain what was happening with each line.  In the original, I had to constantly go back into the Module 2 information to re-study and understand what a specific portion was doing even after leaving it for a day or two.  The recall was much quicker by having a comment block.
+- With the increase of efficiency between the original and refactored VBA script, more tickers can be added without significant felt impact on the user if new datasets would be introduced.
+- Refactoring allowed another opportunity to add more comments into the code to really explain what was happening with each line.  In the original, I had to constantly go back into the Module 2 information to re-study and understand what a specific portion was doing even after leaving it for a day or two.  The recall was much quicker by having a comment block.
 
 **Disadvantages**
 
-- Significant amount of time, researching, and requesting help went into an efficiency that was very unnoticable to the human user.
+- A significant amount of time, researching, and requesting help went into an efficiency that was very unnoticeable to the human user.
 
 
 
