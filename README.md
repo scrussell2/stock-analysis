@@ -2,7 +2,7 @@
 
 ### Green Stocks VBA Refactor Analysis Project Overview
 
-This README analysis of refactoring VBA (*Visual Basic for Applications*) code in the attached Green Stocks Excel document for the year of 2018 and determining if there were any gained efficiencies in making the VBA script run faster.  In this analysis, there will be the original and refactored code for comparisons to showcase what was utilized during the refactoring along with images of the timer before and post-refactoring.
+This analysis of refactoring VBA (*Visual Basic for Applications*) code in the attached Green Stocks Excel document for the year of 2018 and determining if there were any gained efficiencies in making the VBA script run faster.  In this analysis, there will be the original and refactored code for comparisons to showcase what was utilized during the refactoring along with images of the timer before and post-refactoring.
 
 ### Purpose and Background
 
