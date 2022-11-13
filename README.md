@@ -16,14 +16,12 @@ The client for which this refactoring has been completed for is a recent graduat
 
 ### Results
 
-To answer directly, there was an improvement between the original and refactored code by a 145% difference between the two codes. The original code ran at 0.7382813 seconds, and the refactored at 0.1171875 seconds which can be seen in **Figure 1**.
+To answer directly, there was an improvement between the original and refactored code by a 145% difference between the two codes. The original code ran at **0.7382813** seconds, and the refactored at **0.1171875** seconds which can be seen in **Figure 1**.  In the below figure, please note that the refactored code also was able to incorporate more complexity such as formatting and highlighting of cells while gaining significant improvement in the efficiency of processing the data.  How this was accomplished by using the variable called 'tickerIndex' and incorporating its use to hold data and distribute the stored data efficiently when called upon within the refactored script.  Another significant note is the use of arrays throughout the refactored script which can be seen in the below **Figure 2** and **Figure 3** comparisons.  While it may not look like a significant amount of change has occurred, the success is in how the program uses the memory of the given device in shorter more relevant bursts.
 
 **Figure 1**: "VBA_Challenge_2018"
 	
 ![VBA_Challenge_2018_NotRefactored](Resources/VBA_Challenge_2018_NotRefactored.png)
 ![VBA_Challenge_2018_Refactored](Resources/VBA_Challenge_2018_Refactored.png)
-
-In the above figure, please note that the refactored code also was able to incorporate more complexity such as formatting and highlighting of cells while gaining significant improvement in the efficiency of processing the data.  How this was accomplished by using the variable called 'tickerIndex' and incorporating its use to hold data and distribute the stored data efficiently when called upon within the refactored script.  Another significant note is the use of arrays throughout the refactored script which can be seen in the below **Figure 2** and **Figure 3** comparisons.  While it may not look like a significant amount of change has occurred, the success is in how the program uses the memory of the given device in shorter more relevant bursts.
 
 **Figure 2**: "Original Code"
 
