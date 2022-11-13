@@ -313,6 +313,7 @@ To answer directly on performace after refactoring, there was significant improv
 
 - Allows for higher levels of efficiency which uses less memory for a device and allows for more streamlined processing.
 - Rewriting code by adding comments to help explain the logic behind why a certain portion was written for easier recall of the original writer or for anyone who may have to augment the code later.
+- Gives a great opportunity for an analyst to learn new logic and really understand the coding language by researching.
 
 **Disadvantages**
 
