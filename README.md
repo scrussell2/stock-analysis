@@ -20,6 +20,7 @@ To answer directly, there was an improvement between the original and refactored
 
 **Figure 1**: "VBA_Challenge_2018"
 
+![VBA_Challenge_2018_NotRefactored](Resources/VBA_Challenge_2018_NotRefactored.png)
 ![VBA_Challenge_2018_Refactored](Resources/VBA_Challenge_2018_Refactored.png)
 
 **Figure 2**: "Original Code"
