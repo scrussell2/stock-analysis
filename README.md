@@ -328,12 +328,5 @@ To answer directly on performace after refactoring, there was significant improv
 
 **Disadvantages**
 
-- A significant amount of time, researching, and requesting help went into an efficiency that was very unnoticeable to the human user.
-
-
-
-
-
-
-
-
+- A significant amount of time, researching, and requesting help went into an efficiency that was very unnoticeable to the human user with this given dataset.
+- The original source code also had to be augmented to match the challenge requirements.
