@@ -112,7 +112,7 @@ To answer directly on performace after refactoring, there was significant improv
 	Range("A3:C3").Font.Italic = False
 	Range("A3:C3").Borders(xlEdgeBottom).LineStyle = xlContinuous
 	Range("B4:B15").NumberFormat = "$#,##0"
-	Range("C4:C15").NumberFormat = "0.#%"
+	Range("C4:C15").NumberFormat = "0.0%"
 	Columns("B").AutoFit
 
 	dataRowStart = 4
